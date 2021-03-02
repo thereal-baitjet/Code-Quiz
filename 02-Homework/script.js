@@ -1,0 +1,7 @@
+function startgame() {
+
+}
+
+function nextquestion() {
+    
+}
