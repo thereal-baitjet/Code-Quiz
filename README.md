@@ -6,12 +6,12 @@ will be shown via color scheme that you are wrong or right
 you will be timed
 
 ## Instalation
-enter this url ""
+enter this url "https://thereal-baitjet.github.io/Code-Quiz/"
 
 ## Usage 
 test your JavaScript Knowledge
 
-![here goes screen shot](assets/images/screenshot.png)
+![screen shot](https://github.com/thereal-baitjet/Code-Quiz/blob/main/Assets/2021-03-06-18-57-thereal-baitjet.github.io%20(1).png)
 
 ## Credits
 Stackoverflow
